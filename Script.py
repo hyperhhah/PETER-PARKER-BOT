@@ -1,5 +1,5 @@
 class script(object):   
-    HELP_TXT = """𝙷𝙴𝚈 {}\n𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
+    HELP_TXT = """𝙷𝙴𝚈 {}\n𝗛𝗘𝗥𝗘 𝗜𝗦 𝗠𝗬 𝗛𝗘𝗟𝗣 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦."""
 
     ABOUT_TXT = """✯ 𝗠𝘆 𝗡𝗮𝗺𝗲: {}
 ✯ 𝗖𝗥𝗘𝗔𝗧𝗢𝗥 : <a href=https://t.me/HyperBotz>𝗛𝘆𝗽𝗲𝗿𝗕𝗼𝘁𝘇</a>
@@ -144,7 +144,7 @@ these are the extra features of this bot
 • /delallg - <code>ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴀʟʟ ɢʟᴏʙᴀʟ ꜰɪʟᴛᴇʀꜱ</code>
 """
 
-    STATUS_TXT = """<b>᚛› 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code></b>
+    STATUS_TXT = """<b>᚛› 𝗧𝗢𝗧𝗔𝗟 𝗙𝗜𝗟𝗘𝗦: <code>{}</code></b>
 <b>᚛› 𝗧𝗢𝗧𝗔𝗟 𝗨𝗦𝗘𝗥𝗦: <code>{}</code></b>
 <b>᚛› 𝗧𝗢𝗧𝗔𝗟 𝗖𝗛𝗔𝗧𝗦: <code>{}</code></b>
 <b>᚛› 𝗨𝗦𝗘𝗗 𝗦𝗧𝗢𝗥𝗔𝗚𝗘: <code>{}</code> 𝙼𝙱</b>
