@@ -889,7 +889,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('𝗨𝗣𝗗𝗔𝗧𝗘𝗦 𝗖𝗛𝗔𝗡𝗡𝗘𝗟', callback_data='source')
+            InlineKeyboardButton('𝗦𝗢𝗨𝗥𝗖𝗘', callback_data='source')
             ],[
             InlineKeyboardButton('𝗛𝗢𝗠𝗘', callback_data='start'),
             InlineKeyboardButton('𝗖𝗟𝗢𝗦𝗘', callback_data='close_data')
