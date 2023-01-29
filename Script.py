@@ -1,19 +1,19 @@
 class script(object):   
     HELP_TXT = """𝙷𝙴𝚈 {}\n𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
 
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/HyperBotz>𝗛𝘆𝗽𝗲𝗿𝗕𝗼𝘁𝘇</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝙰𝙽𝚈𝚆𝙷𝙴𝚁𝙴
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: 𝙷𝚈𝙿𝙴𝚁 𝙱𝙾𝚃𝚉 𝚟3.0.0"""
+    ABOUT_TXT = """✯ 𝗠𝘆 𝗡𝗮𝗺𝗲: {}
+✯ 𝗖𝗥𝗘𝗔𝗧𝗢𝗥 : <a href=https://t.me/HyperBotz>𝗛𝘆𝗽𝗲𝗿𝗕𝗼𝘁𝘇</a>
+✯ 𝗟𝗜𝗕𝗥𝗔𝗥𝗬 : 𝗣𝘆𝗿𝗼𝗴𝗿𝗮𝗺
+✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝗣𝘆𝘁𝗵𝗼𝗻 𝟯
+✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : 𝗠𝗼𝗻𝗴𝗼𝗗𝗕
+✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝗥𝗮𝗶𝗹𝘄𝗮𝘆
+✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: 𝗛𝘆𝗽𝗲𝗿 𝗕𝗼𝘁𝘇 𝚟3.0.0"""
 
     SOURCE_TXT = """<b>NOTE:</b>
-- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://github.com/matrixbotz0/PETER-PARKER-BOT>𝙷𝚈𝙿𝙴𝚁 𝙱𝙾𝚃𝚉</a>
+𝖮𝖴𝖱𝖢𝖤 𝖢𝖮𝖣𝖤 𝖭𝖮𝖳 𝖠𝖵𝖠𝖨𝖫𝖠𝖡𝖫𝖤 𝖱𝖨𝖦𝖧𝖳 𝖭𝖮𝖶
 
 <b>DEVS:</b>
-- 𝙳𝚎𝚟 1<a href=https://t.me/Hyper740>Hyper</a>"""
+- 𝙳𝚎𝚟 <a href=https://t.me/Hyper740>Hyper</a>"""
 
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
@@ -29,8 +29,6 @@ class script(object):
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
 <code>/batch https://t.me/HyperBotz https://t.me/HyperBotz</code>
-
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/MatRixBotzTG><b>𝗠𝗮𝘁𝗥𝗶𝘅𝗕𝗼𝘁𝘇𝗧𝗚</b></a>"""
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
@@ -75,8 +73,6 @@ class script(object):
 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 :-
 ›› /set_template - 𝚂𝙴𝚃 𝙲𝚄𝚂𝚃𝙾𝙼 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙵𝙾𝚁 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁. 
 ›› /get_template - 𝙶𝙴𝚃 𝙲𝚄𝚁𝚁𝙴𝙽𝚃 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙾𝙵 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.
-
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/MatRixBotzTG>MatRixBotzTG</a>**"""
 
     CONNECTION_TXT = """Help: <b>Connections</b>
 
@@ -145,10 +141,10 @@ these are the extra features of this bot
 """
 
     STATUS_TXT = """<b>᚛› 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code></b>
-<b>᚛› 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code></b>
-<b>᚛› 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code></b>
-<b>᚛› 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝙱</b>
-<b>᚛› 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝙱</b>
+<b>᚛› 𝗧𝗢𝗧𝗔𝗟 𝗨𝗦𝗘𝗥𝗦: <code>{}</code></b>
+<b>᚛› 𝗧𝗢𝗧𝗔𝗟 𝗖𝗛𝗔𝗧𝗦: <code>{}</code></b>
+<b>᚛› 𝗨𝗦𝗘𝗗 𝗦𝗧𝗢𝗥𝗔𝗚𝗘: <code>{}</code> 𝙼𝙱</b>
+<b>᚛› 𝗙𝗥𝗘𝗘 𝗦𝗧𝗢𝗥𝗔𝗚𝗘: <code>{}</code> 𝙼𝙱</b>
 By @HyperBotz"""
     LOG_TEXT_G = """#𝐍𝐞𝐰𝐆𝐫𝐨𝐮𝐩
     
