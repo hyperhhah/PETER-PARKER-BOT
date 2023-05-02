@@ -40,8 +40,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ 𝖠𝖽𝖽 𝖬𝖾 𝖳𝗈 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉𝗌 ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('𝖢𝗁𝖺𝗇𝗇𝖾𝗅', url='https://t.me/C1nemaCorner'), 
-            InlineKeyboardButton('𝖦𝗋𝗈𝗎𝗉', url='https://t.me/CinemaCorner_TG')
+            InlineKeyboardButton('𝗖𝗛𝗔𝗡𝗡𝗘𝗟', url='https://t.me/C1nemaCorner'), 
+            InlineKeyboardButton('𝗢𝗧𝗧 𝗠𝗢𝗩𝗜𝗘𝗦', url='https://t.me/CinemaCornerTG')
             ],[
             InlineKeyboardButton('𝖧𝖾𝗅𝗉', callback_data='help2'),
             InlineKeyboardButton('𝖠𝖻𝗈𝗎𝗍', callback_data='about')
